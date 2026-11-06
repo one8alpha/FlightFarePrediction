@@ -1,0 +1,6 @@
+{
+  "name": "Flight Fare Prediction - ML Project (Roll No. 17)",
+  "description": "Comprehensive Machine Learning pipeline and interactive prediction application for Flight Fare Regression, conforming to academic requirements for Roll No. 17.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
